@@ -1,0 +1,14 @@
+.outputContainer {
+  background-color: black;
+  color: white;
+  width: 100%;
+  height: auto;
+  font-size: 1.2em;
+  position: absolute;
+  bottom: 50px;
+}
+
+.line {
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
+}

@@ -1,0 +1,30 @@
+.prompt {
+  background-color: black;
+  color: white;
+  width: auto;
+  border: 0;
+  margin: 0;
+  padding: 5px 0 7px;
+  display: inline-block;
+  min-width: 0;
+  box-sizing: content-box;
+  background: none;
+  font-size: 1.2em;
+  text-align: right;
+}
+
+.inputContainer {
+  color: white;
+  width: 100%;
+  height: 5%;
+  bottom: 10px;
+  position: absolute !important;
+}
+
+.inputBox {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace !important;
+  color: white !important;
+  font-size: 1.2em !important;
+  display: inline-block !important;
+  width: 80%;
+}
